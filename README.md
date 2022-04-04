@@ -42,7 +42,7 @@ My Projects
 
 - 📫 How to reach me **pankajthakur3999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tQy2XL1Ai8MLlTIEJ_2oWOkWRTE8e6cbBwxJAorXruM/edit#heading=h.brwqp9n3f45n)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tQy2XL1Ai8MLlTIEJ_2oWOkWRTE8e6cbBwxJAorXruM/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
