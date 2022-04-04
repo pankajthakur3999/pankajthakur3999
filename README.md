@@ -34,26 +34,15 @@ My Projects
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://jovian.ai/pankajthakur3999](https://jovian.ai/pankajthakur3999)
+- 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.ai/pankajthakur3999)
 
-- 📝 I regularly write articles on [https://medium.com/@pankajthakur3999](https://medium.com/@pankajthakur3999)
+- 📝 I regularly write articles on [Medium](https://medium.com/@pankajthakur3999)
 
 - 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
 
 - 📫 How to reach me **pankajthakur3999@gmail.com**
 
-- 📄 Resume
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/pankajthakur3999/resume/blob/main/Pankaj%20Thakur%20-%20Resume%20(5).pdf=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
+- 📄 My Resume [Resume](https://github.com/pankajthakur3999/resume/blob/main/Pankaj%20Thakur%20-%20Resume%20(5).pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
