@@ -1,16 +1,34 @@
-### Hi there 👋
-
-<!--
-**pankajthakur3999/pankajthakur3999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi 👋, I'm Pankaj Thakur</h1>
+<h1 align="center">Hi 👋, I'm Pankaj Thakur from India</h1>
 <h3 align="center">A passionate data science practitioner.</h3>
+
+[Personal Website](https://pankajthakur3999.github.io/PankajThakur.github.io/)
+
+### I have completed
+
+Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+
+Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+
+My Projects
+
+**Exploratory Data Analysis of  7+ Million Company Dataset : [Link](https://jovian.ai/pankajthakur3999/eda-company-datasets) [Blog](https://blog.jovian.ai/exploratory-data-analysis-on-company-datasets-c331beaa28d0)**
+
+* Cleaned data for 7+ million containing 11 columns and analyzed data by taking a sample of 10,000 rows using Pandas
+* Created visualizations (scatter plots, Bar charts, Treemap, etc.) using Seaborn & Plotly
+* Discovered United States is contributing to 53% of industries around the world and India is the 2nd largest country in IT industries.
+
+**Web Scrapping of the Insurance Company [Link](https://jovian.ai/pankajthakur3999/web-scrapping-of-top-insurance-companies) [Blog](https://blog.jovian.ai/web-scraping-top-insurance-companies-using-python-and-beautifulsoup-9ec83bc5ab57)**
+
+* Scrapped 526 Insurance companies from 53 pages of the same website value.today.
+* The scrapping was done using python libraries such as Requests, Beautifulsoup, etc.
+* The scrapped data was stored in a CSV file to be accessed for processing.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajthakur3999&label=Profile%20views&color=0e75b6&style=flat" alt="pankajthakur3999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajthakur3999" alt="pankajthakur3999" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/@whoispankaj" target="blank"><img src="https://img.shields.io/twitter/follow/@whoispankaj?logo=twitter&style=for-the-badge" alt="@whoispankaj" /></a> </p>
 
