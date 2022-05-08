@@ -30,7 +30,7 @@ My Projects
 
 
 
-<p align="left"> <a href="https://twitter.com/@whoispankaj" target="blank"><img src="https://img.shields.io/twitter/follow/@whoispankaj?logo=twitter&style=for-the-badge" alt="@whoispankaj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@whoispankaj" target="blank">
 
 - 🌱 I’m currently learning **Machine Learning**
 
