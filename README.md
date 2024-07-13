@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Thakur from India</h1>
 <h3 align="center">A passionate data science practitioner.</h3>
 
-[Personal Website](https://pankajthakur3999.github.io/portfolio/)
+[Portfolio](https://pankajthakur3999.github.io/portfolio/)
 
 ### I have completed
 
