@@ -11,13 +11,13 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 My Projects
 
-**Exploratory Data Analysis of  7+ Million Company Dataset : [Link](https://jovian.ai/pankajthakur3999/eda-company-datasets) [Blog](https://blog.jovian.ai/exploratory-data-analysis-on-company-datasets-c331beaa28d0)**
+**Exploratory Data Analysis of  7+ Million Company Dataset : [Blog](https://blog.jovian.ai/exploratory-data-analysis-on-company-datasets-c331beaa28d0)**
 
 * Cleaned data for 7+ million containing 11 columns and analyzed data by taking a sample of 10,000 rows using Pandas
 * Created visualizations (scatter plots, Bar charts, Treemap, etc.) using Seaborn & Plotly
 * Discovered United States is contributing to 53% of industries around the world and India is the 2nd largest country in IT industries.
 
-**Web Scrapping of the Insurance Company [Link](https://jovian.ai/pankajthakur3999/web-scrapping-of-top-insurance-companies) [Blog](https://blog.jovian.ai/web-scraping-top-insurance-companies-using-python-and-beautifulsoup-9ec83bc5ab57)**
+**Web Scrapping of the Insurance Company [Blog](https://blog.jovian.ai/web-scraping-top-insurance-companies-using-python-and-beautifulsoup-9ec83bc5ab57)**
 
 * Scrapped 526 Insurance companies from 53 pages of the same website value.today.
 * The scrapping was done using python libraries such as Requests, Beautifulsoup, etc.
@@ -32,17 +32,15 @@ My Projects
 
 <p align="left"> <a href="https://twitter.com/@whoispankaj" target="blank">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.ai/pankajthakur3999)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajthakur3999/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@pankajthakur3999)
-
-- 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
+- 💬 Ask me about **SQL, Python, Statistics, Web scrapping, EDA, Data Engineering, Azure**
 
 - 📫 How to reach me **pankajthakur3999@gmail.com**
 
-- 📄 My Resume [Resume](https://github.com/pankajthakur3999/resume/blob/main/Pankaj%20Thakur%20-%20Resume%20(5).pdf)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1geZnO7l2ZsbsRx0d596v08nOOBDgAYVq/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
